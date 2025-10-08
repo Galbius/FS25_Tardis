@@ -74,6 +74,7 @@ Feedback, dieses ReadMe und weitere Informationen sowie der Quelltext findet sic
 
 ### Inkompatible Mods
 * Keine bekannt
+* Probleme avec la dernierer version de Farming simulator ! un message s'affiche quand j appuie sur ALT T "lonely farmer ..."
 
 ## Standard Tastenbelegung
 |Key Kombi|Aktion|
@@ -97,6 +98,7 @@ Des weiteren noch Ifko[nator] für das RegisterSpecialization Skript.
 
 ## Letzte Version
 0.9.2.1 - Ich nenn es nicht mehr Beta, da es bei mir sehr gut funktioniert. Jedoch werde ich erst eine v1. draus machen wenn ich mal Zeit für MP hab.
+
 
 
 # Screenshots
